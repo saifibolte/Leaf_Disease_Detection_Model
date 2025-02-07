@@ -8,6 +8,8 @@ This dataset consists of about 87K rgb images of healthy and diseased crop leave
 
 ### Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/
 
+### Model Link: https://drive.google.com/file/d/1fIruj5kb8a-3xQQIWGaoPQQpjB8spbPb/view?usp=sharing
+
 ## Training the model: 
 Training the model had occurred using the transfer learning approach and early stopping and model checkpoints had been set. The steps per epoch had been set to 64, number of epochs set to 50 and validation steps also set on 64.
 
